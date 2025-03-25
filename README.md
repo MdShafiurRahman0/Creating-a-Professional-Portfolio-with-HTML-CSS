@@ -10,10 +10,10 @@
 # About Me Section : 
 ![image](https://github.com/user-attachments/assets/cd135cbb-0d6b-40b8-9cfb-ba4ebbbb9ed5)
 
-# Resume Section
+# Experience Section
 ![image](https://github.com/user-attachments/assets/74cbe68b-9c0a-4143-8e7d-1cf9d98ad748)
 
-# Experience  Section : 
+
 ![image](https://github.com/user-attachments/assets/4793f76b-d724-482c-9072-dbea31109c16)
 
 # Education Section : 
