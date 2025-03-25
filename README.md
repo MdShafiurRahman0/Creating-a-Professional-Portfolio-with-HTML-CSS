@@ -20,8 +20,10 @@
 
 ![image](https://github.com/user-attachments/assets/1e2dbc67-206f-4f17-a5bb-a9b4fe31cb51)
 
+# Project Section in Github :
 ![image](https://github.com/user-attachments/assets/0c4c947c-3482-4723-a5b7-abdcafea6129)
 
 ![image](https://github.com/user-attachments/assets/a45d12e1-4897-4c41-91ce-06dd74f57e65)
 
+# Contact & Query Section:
 ![image](https://github.com/user-attachments/assets/aae868bb-0a36-4031-87a1-00dd063bd2aa)
